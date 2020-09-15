@@ -1,5 +1,6 @@
 .DS_Store
 .env
 yarn-error.log
+yarn.lock
 .idea
 node_modules/
